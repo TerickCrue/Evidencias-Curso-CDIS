@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author erick
+ *
+ */
+module a {
+}
